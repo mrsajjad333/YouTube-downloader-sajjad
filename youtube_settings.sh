@@ -22,7 +22,8 @@ echo "Creating bin folder"
 mkdir ~/bin
  
 echo "Downloading and installing termux-url-opener"
-curl https://raw.githubusercontent.com/SarfarazRLZ/Termux-For-Youtube/master/termux-url-opener -o ~/bin/termux-url-opener
+curl https://raw.githubusercontent.com/mrsajjad333/YouTube-downloader-sajjad/main/termux-url-opener
+ -o ~/bin/termux-url-opener
 sleep 2
 dos2unix ~/bin/termux-url-opener
 
